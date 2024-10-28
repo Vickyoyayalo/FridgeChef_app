@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Privacy — Photo Library Usage
+
+Privacy — Photo Library Usage
+
+Privacy — Photo Library Usage
+
+Privacy — Photo Library Usage
+
+Privacy — Photo Library Usage
+
+Privacy — Photo Library Usage
+
+Privacy — Photo Library Usage
+
+Privacy — Photo Library Usage
+
+Privacy — Photo Library Usage</key>
+	<string>This app needs to access your photo library to select images.</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Nunito-Bold.ttf</string>
+		<string>ZenLoop-Regular.ttf</string>
+		<string>ZenLoop-Italic.ttf</string>
+	</array>
+</dict>
+</plist>
